@@ -1,4 +1,8 @@
-# Projets :
+Pour les projets 1 et 3, ainsi que pour le dossier professionnel, les documents sont à télécharger. (présent dans ce repo)
+
+- [Dossier professionnel](https://github.com/MR-BOUBAKOUR/greta-eval/blob/main/dossier-professionnel_BOUBAKOUR.odt)
+
+# Projets OpenClasserooms :
 
 - [Projet 1](https://github.com/MR-BOUBAKOUR/greta-eval/blob/main/MB_P1_demarrez-votre-formation-de-developpeur-dapplication-java-1_2024-10-29T193029%20(2).zip)  
 - [Projet 2](https://github.com/MR-BOUBAKOUR/-BOUBAKOUR-MohamedRedha-debug-Java-)  
